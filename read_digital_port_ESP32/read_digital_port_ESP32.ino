@@ -1,3 +1,9 @@
+//Microcontrolador: ESP32
+//Descripción:
+//  Lee un puerto digital y lo muestra en la salida serie
+//Autor: Agustin Alvarez
+//Fecha: 13/8/2024
+
 const int pin = 18;  // Selecciono un pin digital, por ejemplo el GPIO18
 
 void setup() {
